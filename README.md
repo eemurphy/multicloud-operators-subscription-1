@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Architecture](#architecture)
 - [Stand-alone deployment](#stand-alone-deployment)
-- [Multi-cluster deployment](#multi-cluster-deployment)
+- [Multi-cluster deployment](#multi-cluster-deployment)  
     - [Prerequisite](#prerequisite)
     - [Operator Deployment](#operator-deployment)
     - [Add-on Deployment](#add-on-deployment)
